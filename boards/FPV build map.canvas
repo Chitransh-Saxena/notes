@@ -1,0 +1,98 @@
+{
+  "nodes": [
+    {
+      "id": "g-learn",
+      "type": "group",
+      "label": "Costs nothing",
+      "x": -60,
+      "y": -80,
+      "width": 700,
+      "height": 300,
+      "color": "4"
+    },
+    {
+      "id": "g-spend",
+      "type": "group",
+      "label": "Costs money",
+      "x": -60,
+      "y": 260,
+      "width": 700,
+      "height": 320,
+      "color": "2"
+    },
+    {
+      "id": "start",
+      "type": "file",
+      "file": "FPV — Where to start.md",
+      "x": 0,
+      "y": 0,
+      "width": 300,
+      "height": 200
+    },
+    {
+      "id": "sim",
+      "type": "file",
+      "file": "FPV — Simulators.md",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 200
+    },
+    {
+      "id": "buy",
+      "type": "file",
+      "file": "FPV — What to buy.md",
+      "x": 0,
+      "y": 300,
+      "width": 300,
+      "height": 240
+    },
+    {
+      "id": "build",
+      "type": "file",
+      "file": "FPV — The first build.md",
+      "x": 340,
+      "y": 300,
+      "width": 280,
+      "height": 240
+    },
+    {
+      "id": "cad",
+      "type": "text",
+      "text": "## Optional, any time\n\n[[FPV — CAD and simulation]]\n\nPrint the parts that break. Onshape or FreeCAD — **not** AutoCAD.\n\n#fpv/cad",
+      "x": 700,
+      "y": 0,
+      "width": 280,
+      "height": 200,
+      "color": "6"
+    },
+    {
+      "id": "tune",
+      "type": "text",
+      "text": "## Then, and only then\n\n[[FPV — Tuning and flying]]\n\nCheck the props before the PIDs. Most tuning problems are mechanical.\n\n#fpv/tune",
+      "x": 700,
+      "y": 300,
+      "width": 280,
+      "height": 240,
+      "color": "1"
+    },
+    {
+      "id": "tools",
+      "type": "text",
+      "text": "[[FPV — Claude Code in the loop]] — keep the artifacts in the vault, use the agent to query them. Verify every spec against the vendor.\n\n#fpv/tools",
+      "x": 210,
+      "y": 620,
+      "width": 560,
+      "height": 130,
+      "color": "5"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "start", "fromSide": "right", "toNode": "sim", "toSide": "left", "label": "first", "color": "4" },
+    { "id": "e2", "fromNode": "sim", "fromSide": "bottom", "toNode": "buy", "toSide": "top", "label": "after ~20 hrs", "color": "2" },
+    { "id": "e3", "fromNode": "buy", "fromSide": "right", "toNode": "build", "toSide": "left", "label": "or buy a BNF" },
+    { "id": "e4", "fromNode": "build", "fromSide": "right", "toNode": "tune", "toSide": "left", "label": "last", "color": "1" },
+    { "id": "e5", "fromNode": "sim", "fromSide": "right", "toNode": "cad", "toSide": "left", "toEnd": "none", "color": "6" },
+    { "id": "e6", "fromNode": "build", "fromSide": "bottom", "toNode": "tools", "toSide": "top", "toEnd": "none", "color": "5" }
+  ]
+}
