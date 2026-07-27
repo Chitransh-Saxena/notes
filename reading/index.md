@@ -1,5 +1,6 @@
 ---
 title: Reading
+aliases: [Reading, Books]
 tags: [area]
 ---
 

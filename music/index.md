@@ -1,5 +1,6 @@
 ---
 title: Guitar
+aliases: [Guitar, Music]
 tags: [area]
 ---
 

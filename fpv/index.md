@@ -1,5 +1,6 @@
 ---
 title: Drones
+aliases: [Drones, FPV]
 tags: [area, fpv]
 ---
 

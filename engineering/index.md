@@ -1,5 +1,6 @@
 ---
 title: Engineering
+aliases: [Engineering]
 tags: [area]
 ---
 

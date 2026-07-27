@@ -1,5 +1,6 @@
 ---
 title: Photography
+aliases: [Photography, Photo]
 tags: [area, photo]
 ---
 
