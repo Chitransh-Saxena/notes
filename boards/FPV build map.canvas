@@ -7,7 +7,7 @@
       "x": -60,
       "y": -80,
       "width": 700,
-      "height": 300,
+      "height": 390,
       "color": "4"
     },
     {
@@ -15,51 +15,51 @@
       "type": "group",
       "label": "Costs money",
       "x": -60,
-      "y": 260,
+      "y": 320,
       "width": 700,
-      "height": 320,
+      "height": 410,
       "color": "2"
     },
     {
       "id": "start",
       "type": "file",
-      "file": "FPV — Where to start.md",
+      "file": "FPV \u2014 Where to start.md",
       "x": 0,
       "y": 0,
       "width": 300,
-      "height": 200
+      "height": 290
     },
     {
       "id": "sim",
       "type": "file",
-      "file": "FPV — Simulators.md",
+      "file": "FPV \u2014 Simulators.md",
       "x": 340,
       "y": 0,
       "width": 280,
-      "height": 200
+      "height": 290
     },
     {
       "id": "buy",
       "type": "file",
-      "file": "FPV — What to buy.md",
+      "file": "FPV \u2014 What to buy.md",
       "x": 0,
-      "y": 300,
+      "y": 360,
       "width": 300,
-      "height": 240
+      "height": 330
     },
     {
       "id": "build",
       "type": "file",
-      "file": "FPV — The first build.md",
+      "file": "FPV \u2014 The first build.md",
       "x": 340,
-      "y": 300,
+      "y": 360,
       "width": 280,
-      "height": 240
+      "height": 330
     },
     {
       "id": "cad",
       "type": "text",
-      "text": "## Optional, any time\n\n[[FPV — CAD and simulation]]\n\nPrint the parts that break. Onshape or FreeCAD — **not** AutoCAD.\n\n#fpv/cad",
+      "text": "## Optional, any time\n\n[[FPV \u2014 CAD and simulation]]\n\nPrint the parts that break. Onshape or FreeCAD \u2014 **not** AutoCAD.\n\n#fpv/cad",
       "x": 700,
       "y": 0,
       "width": 280,
@@ -69,9 +69,9 @@
     {
       "id": "tune",
       "type": "text",
-      "text": "## Then, and only then\n\n[[FPV — Tuning and flying]]\n\nCheck the props before the PIDs. Most tuning problems are mechanical.\n\n#fpv/tune",
+      "text": "## Then, and only then\n\n[[FPV \u2014 Tuning and flying]]\n\nCheck the props before the PIDs. Most tuning problems are mechanical.\n\n#fpv/tune",
       "x": 700,
-      "y": 300,
+      "y": 360,
       "width": 280,
       "height": 240,
       "color": "1"
@@ -79,20 +79,67 @@
     {
       "id": "tools",
       "type": "text",
-      "text": "[[FPV — Claude Code in the loop]] — keep the artifacts in the vault, use the agent to query them. Verify every spec against the vendor.\n\n#fpv/tools",
+      "text": "[[FPV \u2014 Claude Code in the loop]] \u2014 keep the artifacts in the vault, use the agent to query them. Verify every spec against the vendor.\n\n#fpv/tools",
       "x": 210,
-      "y": 620,
+      "y": 680,
       "width": 560,
-      "height": 130,
+      "height": 160,
       "color": "5"
     }
   ],
   "edges": [
-    { "id": "e1", "fromNode": "start", "fromSide": "right", "toNode": "sim", "toSide": "left", "label": "first", "color": "4" },
-    { "id": "e2", "fromNode": "sim", "fromSide": "bottom", "toNode": "buy", "toSide": "top", "label": "after ~20 hrs", "color": "2" },
-    { "id": "e3", "fromNode": "buy", "fromSide": "right", "toNode": "build", "toSide": "left", "label": "or buy a BNF" },
-    { "id": "e4", "fromNode": "build", "fromSide": "right", "toNode": "tune", "toSide": "left", "label": "last", "color": "1" },
-    { "id": "e5", "fromNode": "sim", "fromSide": "right", "toNode": "cad", "toSide": "left", "toEnd": "none", "color": "6" },
-    { "id": "e6", "fromNode": "build", "fromSide": "bottom", "toNode": "tools", "toSide": "top", "toEnd": "none", "color": "5" }
+    {
+      "id": "e1",
+      "fromNode": "start",
+      "fromSide": "right",
+      "toNode": "sim",
+      "toSide": "left",
+      "label": "first",
+      "color": "4"
+    },
+    {
+      "id": "e2",
+      "fromNode": "sim",
+      "fromSide": "bottom",
+      "toNode": "buy",
+      "toSide": "top",
+      "label": "after ~20 hrs",
+      "color": "2"
+    },
+    {
+      "id": "e3",
+      "fromNode": "buy",
+      "fromSide": "right",
+      "toNode": "build",
+      "toSide": "left",
+      "label": "or buy a BNF"
+    },
+    {
+      "id": "e4",
+      "fromNode": "build",
+      "fromSide": "right",
+      "toNode": "tune",
+      "toSide": "left",
+      "label": "last",
+      "color": "1"
+    },
+    {
+      "id": "e5",
+      "fromNode": "sim",
+      "fromSide": "right",
+      "toNode": "cad",
+      "toSide": "left",
+      "toEnd": "none",
+      "color": "6"
+    },
+    {
+      "id": "e6",
+      "fromNode": "build",
+      "fromSide": "bottom",
+      "toNode": "tools",
+      "toSide": "top",
+      "toEnd": "none",
+      "color": "5"
+    }
   ]
 }
