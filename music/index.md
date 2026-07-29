@@ -17,10 +17,13 @@ took far too long to notice they describe the same thing.
 
 1. [[Guitar — The fretboard]] — six strings, twelve frets, one octave — #music/fretboard
 2. [[Guitar — Sargam and the scale]] — sa re ga ma pa on the strings — #music/sargam
-3. [[Guitar — Chords]] — why three notes make a chord — #music/chords
-4. [[Guitar — Rhythm and tempo]] — beats, taal, BPM, time signatures — #music/rhythm
-5. [[Guitar — Reading music]] — staff, tab, and the symbols on the page — #music/notation
-6. [[Guitar — A melody, worked through]] — one tune, in sargam, tab and theory — #music/melody
+3. [[Guitar — Sharps, flats and the twelve]] — why there is no E♯ — #music/accidentals
+4. [[Guitar — Chords]] — why three notes make a chord — #music/chords
+5. [[Guitar — Beyond the triad]] — sus, add, and what Dsus2 and Cadd9 really are — #music/voicings
+6. [[Guitar — The capo]] — a movable nut, and the physics of it — #music/capo
+7. [[Guitar — Rhythm and tempo]] — beats, taal, BPM, time signatures — #music/rhythm
+8. [[Guitar — Reading music]] — staff, tab, and the symbols on the page — #music/notation
+9. [[Guitar — A melody, worked through]] — one tune, in sargam, tab and theory — #music/melody
 
 ## The one thing worth knowing first
 
@@ -30,6 +33,8 @@ stays identical, just higher. Western solfège calls this *movable do*, and it i
 the same idea.
 
 That is why the fret patterns in [[Guitar — Sargam and the scale]] work anywhere
-on the neck. Learn the shape once and you have it in all twelve keys.
+on the neck. Learn the shape once and you have it in all twelve keys — and it is
+why [[Guitar — The capo]] works at all: a capo does nothing but choose a
+different Sa.
 
 Back to [[index|notes]].

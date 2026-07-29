@@ -5,7 +5,7 @@ tags: [music, music/notation]
 
 # Guitar — Reading music
 
-#music/notation · Note 5 of 6 · part of [[Guitar]]
+#music/notation · Note 8 of 9 · part of [[Guitar]]
 
 Two systems. **Tab** tells you where to put your fingers. **Staff** tells you
 what the music actually is. Guitarists can get a long way on tab alone, and hit

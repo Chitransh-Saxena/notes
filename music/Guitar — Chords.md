@@ -5,7 +5,7 @@ tags: [music, music/chords]
 
 # Guitar — Chords
 
-#music/chords · Note 3 of 6 · part of [[Guitar]]
+#music/chords · Note 4 of 9 · part of [[Guitar]]
 
 ## A chord is three notes
 
@@ -114,4 +114,4 @@ A clean change at 60 beats far more chords played badly.
 
 ---
 
-← Previous: [[Guitar — Sargam and the scale]] · → Next: [[Guitar — Rhythm and tempo]] · Series: [[Guitar]]
+← Previous: [[Guitar — Sharps, flats and the twelve]] · → Next: [[Guitar — Beyond the triad]] · Series: [[Guitar]]

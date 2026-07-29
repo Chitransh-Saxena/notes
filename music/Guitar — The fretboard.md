@@ -5,7 +5,7 @@ tags: [music, music/fretboard]
 
 # Guitar — The fretboard
 
-#music/fretboard · Note 1 of 6 · part of [[Guitar]]
+#music/fretboard · Note 1 of 9 · part of [[Guitar]]
 
 ## Six strings
 

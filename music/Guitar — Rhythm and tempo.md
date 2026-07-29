@@ -5,7 +5,7 @@ tags: [music, music/rhythm]
 
 # Guitar — Rhythm and tempo
 
-#music/rhythm · Note 4 of 6 · part of [[Guitar]]
+#music/rhythm · Note 7 of 9 · part of [[Guitar]]
 
 Wrong notes in time sound like a choice. Right notes out of time sound like a
 mistake. Rhythm is the half that gets neglected.
@@ -106,4 +106,4 @@ Speed built this way holds up. Speed rushed does not.
 
 ---
 
-← Previous: [[Guitar — Chords]] · → Next: [[Guitar — Reading music]] · Series: [[Guitar]]
+← Previous: [[Guitar — The capo]] · → Next: [[Guitar — Reading music]] · Series: [[Guitar]]

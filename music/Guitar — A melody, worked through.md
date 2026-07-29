@@ -5,7 +5,7 @@ tags: [music, music/melody]
 
 # Guitar — A melody, worked through
 
-#music/melody · Note 6 of 6 · part of [[Guitar]]
+#music/melody · Note 9 of 9 · part of [[Guitar]]
 
 Everything in this series, applied to eight bars. The melody is my own, written
 to be simple enough to analyse and long enough to have a shape.
@@ -116,8 +116,10 @@ than accidental.
    over the top.
 
 Then move Sa. Put it at the 5th fret of the 5th string and the whole thing is in
-D, with the same shapes and the same fingering. That transposition, done without
-thinking, is the point of everything in this series.
+D, with the same shapes and the same fingering. Or clamp a capo at fret 2 and
+play it exactly as written — same result, no thinking required
+([[Guitar — The capo]]). That transposition, done without effort, is the point of
+everything in this series.
 
 ---
 

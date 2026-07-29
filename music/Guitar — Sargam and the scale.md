@@ -5,7 +5,7 @@ tags: [music, music/sargam]
 
 # Guitar — Sargam and the scale
 
-#music/sargam · Note 2 of 6 · part of [[Guitar]]
+#music/sargam · Note 2 of 9 · part of [[Guitar]]
 
 ## The seven swaras
 
@@ -123,4 +123,4 @@ seven notes produce hundreds of distinct moods.
 
 ---
 
-← Previous: [[Guitar — The fretboard]] · → Next: [[Guitar — Chords]] · Series: [[Guitar]]
+← Previous: [[Guitar — The fretboard]] · → Next: [[Guitar — Sharps, flats and the twelve]] · Series: [[Guitar]]
