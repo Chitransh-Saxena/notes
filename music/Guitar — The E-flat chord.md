@@ -1,6 +1,8 @@
 ---
 title: Guitar — The E♭ chord
-aliases: [E flat chord, Eb chord]
+# The file is named "E-flat" so the URL stays clean; the ♭ spelling is an alias
+# so links can be written either way.
+aliases: [Guitar — The E♭ chord, E♭ chord, E flat chord, Eb chord]
 tags: [music, music/chords]
 ---
 
