@@ -25,6 +25,16 @@ took far too long to notice they describe the same thing.
 8. [[Guitar — Reading music]] — staff, tab, and the symbols on the page — #music/notation
 9. [[Guitar — A melody, worked through]] — one tune, in sargam, tab and theory — #music/melody
 
+## Pieces and problems
+
+Standalone, outside the arc above — a single chord and a single piece, each worth
+its own note:
+
+- [[Guitar — The E♭ chord]] — the chord that stops people, and why it is the
+  tuning's fault rather than yours — #music/chords
+- [[Guitar — Shape of My Heart]] — what the Dominic Miller figure is built from,
+  and how to learn a fingerstyle riff by ear — #music/fingerstyle
+
 ## The one thing worth knowing first
 
 **Sargam is movable.** Sa is not a fixed pitch — it is whichever note you decide
