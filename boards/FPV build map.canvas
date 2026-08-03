@@ -23,7 +23,7 @@
     {
       "id": "start",
       "type": "file",
-      "file": "FPV \u2014 Where to start.md",
+      "file": "fpv/start/Where to start.md",
       "x": 0,
       "y": 0,
       "width": 300,
@@ -32,7 +32,7 @@
     {
       "id": "sim",
       "type": "file",
-      "file": "FPV \u2014 Simulators.md",
+      "file": "fpv/fly/Simulators.md",
       "x": 340,
       "y": 0,
       "width": 280,
@@ -41,7 +41,7 @@
     {
       "id": "buy",
       "type": "file",
-      "file": "FPV \u2014 What to buy.md",
+      "file": "fpv/start/What to buy.md",
       "x": 0,
       "y": 360,
       "width": 300,
@@ -50,7 +50,7 @@
     {
       "id": "build",
       "type": "file",
-      "file": "FPV \u2014 The first build.md",
+      "file": "fpv/build/The first build.md",
       "x": 340,
       "y": 360,
       "width": 280,
@@ -59,7 +59,7 @@
     {
       "id": "cad",
       "type": "text",
-      "text": "## Optional, any time\n\n[[FPV \u2014 CAD and simulation]]\n\nPrint the parts that break. Onshape or FreeCAD \u2014 **not** AutoCAD.\n\n#fpv/cad",
+      "text": "## Optional, any time\n\n[[FPV — CAD and simulation]]\n\nPrint the parts that break. Onshape or FreeCAD — **not** AutoCAD.\n\n#fpv/cad",
       "x": 700,
       "y": 0,
       "width": 280,
@@ -69,7 +69,7 @@
     {
       "id": "tune",
       "type": "text",
-      "text": "## Then, and only then\n\n[[FPV \u2014 Tuning and flying]]\n\nCheck the props before the PIDs. Most tuning problems are mechanical.\n\n#fpv/tune",
+      "text": "## Then, and only then\n\n[[FPV — Tuning and flying]]\n\nCheck the props before the PIDs. Most tuning problems are mechanical.\n\n#fpv/tune",
       "x": 700,
       "y": 360,
       "width": 280,
@@ -79,7 +79,7 @@
     {
       "id": "tools",
       "type": "text",
-      "text": "[[FPV \u2014 Claude Code in the loop]] \u2014 keep the artifacts in the vault, use the agent to query them. Verify every spec against the vendor.\n\n#fpv/tools",
+      "text": "[[FPV — Claude Code in the loop]] — keep the artifacts in the vault, use the agent to query them. Verify every spec against the vendor.\n\n#fpv/tools",
       "x": 210,
       "y": 680,
       "width": 560,
