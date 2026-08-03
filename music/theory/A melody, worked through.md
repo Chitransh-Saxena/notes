@@ -1,9 +1,10 @@
 ---
-title: Guitar — A melody, worked through
+title: A melody, worked through
+aliases: [Guitar — A melody, worked through]
 tags: [music, music/melody]
 ---
 
-# Guitar — A melody, worked through
+# A melody, worked through
 
 #music/melody · Note 9 of 9 · part of [[Guitar]]
 
@@ -38,7 +39,7 @@ note held for four.
 ## Where the notes are
 
 Open position, using the C major scale from
-[[Guitar — Sargam and the scale]]:
+[[Sargam and the scale]]:
 
 | Sargam | Note | String | Fret |
 | --- | --- | --- | --- |
@@ -94,7 +95,7 @@ that feels like a complete thought.
 
 ## Chords underneath
 
-Harmonise it with the scale's own triads ([[Guitar — Chords]]):
+Harmonise it with the scale's own triads ([[Chords]]):
 
 ```
 │ C      │ C      │ F      │ G      │
@@ -118,9 +119,9 @@ than accidental.
 Then move Sa. Put it at the 5th fret of the 5th string and the whole thing is in
 D, with the same shapes and the same fingering. Or clamp a capo at fret 2 and
 play it exactly as written — same result, no thinking required
-([[Guitar — The capo]]). That transposition, done without effort, is the point of
+([[The capo]]). That transposition, done without effort, is the point of
 everything in this series.
 
 ---
 
-← Previous: [[Guitar — Reading music]] · Series: [[Guitar]]
+← Previous: [[Reading music]] · Series: [[Guitar]]

@@ -1,10 +1,10 @@
 ---
-title: Guitar — Shape of My Heart
-aliases: [Shape of My Heart]
+title: Shape of My Heart
+aliases: [Shape of My Heart, Guitar — Shape of My Heart]
 tags: [music, music/fingerstyle]
 ---
 
-# Guitar — Shape of My Heart
+# Shape of My Heart
 
 #music/fingerstyle · a companion to [[Guitar]]
 
@@ -45,7 +45,7 @@ Three things make that style sound the way it does:
 2. **A descending bass.** Bass lines that step down feel like gravity. Almost
    every piece that gets called "haunting" is doing this.
 3. **Chords voiced to keep the common tone available** — which usually means
-   partial shapes, not textbook grips. See [[Guitar — Beyond the triad]]: this is
+   partial shapes, not textbook grips. See [[Beyond the triad]]: this is
    where sus and add voicings earn their keep, because they let a note stay put
    while the chord changes around it.
 
@@ -89,7 +89,7 @@ Two things worth knowing before you start:
   Miller uses.
 - **Fingers stay down.** Much of the fluency comes from leaving one or two fingers
   planted through a change, exactly like the Cadd9 family in
-  [[Guitar — Beyond the triad]]. Look for the note that does not move and anchor it.
+  [[Beyond the triad]]. Look for the note that does not move and anchor it.
 
 ## How to learn this — or any riff — by ear
 
@@ -97,7 +97,7 @@ Genuinely worth doing before buying the tab. You will learn more in an hour of
 this than in a week of reading someone else's numbers.
 
 1. **Find the tonic.** Hum the note the phrase resolves to. Find it on the
-   guitar. That is Sa ([[Guitar — Sargam and the scale]]) — everything else is
+   guitar. That is Sa ([[Sargam and the scale]]) — everything else is
    measured from there.
 2. **Get the bass first.** Bass notes are slower, louder and easier to hear than
    the arpeggios above them. Write down just the bass line.
@@ -113,7 +113,7 @@ this than in a week of reading someone else's numbers.
 
 ## Practising it
 
-The method from [[Guitar — Rhythm and tempo]], and it applies here more than
+The method from [[Rhythm and tempo]], and it applies here more than
 anywhere:
 
 - Start at a tempo where it is **perfect**, not one where it is nearly right.
@@ -135,4 +135,4 @@ yourself without a band.
 This piece is a good teacher because it is **slow enough to hear your own
 mistakes** and hard enough to be worth the fortnight.
 
-Related: [[Guitar — Beyond the triad]] · [[Guitar — Rhythm and tempo]] · [[Guitar — Chords]]
+Related: [[Beyond the triad]] · [[Rhythm and tempo]] · [[Chords]]

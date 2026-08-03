@@ -30,7 +30,7 @@ into. Tags cut across the folders — `#fpv/build`, `#photo/lowlight` — and ev
 one of them has its own page.
 
 Attachments live in `attachments/`. See
-[[Photo — Adding photos to these notes]] for how images are served.
+[[Adding photos to these notes]] for how images are served.
 
 ## How this works
 

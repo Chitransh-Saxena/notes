@@ -1,9 +1,10 @@
 ---
-title: FPV — Tuning and flying
+title: Tuning and flying
+aliases: [FPV — Tuning and flying]
 tags: [fpv, fpv/tune]
 ---
 
-# FPV — Tuning and flying
+# Tuning and flying
 
 #fpv/tune · Note 6 of 7 · part of [[Drones]]
 
@@ -23,7 +24,7 @@ Check all of those before you touch a PID. Most "tuning problems" are a £2 prop
 ## When tuning is actually warranted
 
 When the quad is mechanically sound and you can reliably fly the drills from
-[[FPV — Simulators]], and *then* something specific is wrong:
+[[Simulators]], and *then* something specific is wrong:
 
 - **Oscillation on hard throttle** — usually a filter or motor-noise problem
 - **Propwash** on descents — the classic D-term and dynamic-idle territory
@@ -74,9 +75,9 @@ The thing that separates people who look good from people who look frantic is
 
 Every flight that taught you something is worth a line: pack, conditions, what
 broke, what you changed. That log is the single most useful note in this whole
-vault after a year — see [[FPV — Claude Code in the loop]] for keeping it without
+vault after a year — see [[Claude Code in the loop]] for keeping it without
 it becoming a chore.
 
 ---
 
-← Previous: [[FPV — The first build]] · → Next: [[FPV — Claude Code in the loop]] · Series: [[Drones]]
+← Previous: [[The first build]] · → Next: [[Claude Code in the loop]] · Series: [[Drones]]

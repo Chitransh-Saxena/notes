@@ -1,9 +1,10 @@
 ---
-title: Photo — Low light
+title: Low light
+aliases: [Photo — Low light]
 tags: [photo, photo/lowlight]
 ---
 
-# Photo — Low light
+# Low light
 
 #photo/lowlight · Note 3 of 7 · part of [[Photography]]
 
@@ -17,7 +18,7 @@ All the stabilising comes from the lens, and the RF 35mm f/1.8 has good Hybrid I
 ## Static subject — a room, a street, a still life
 
 IS is doing the work, so the shutter floor drops a long way below the usual
-1/60 from [[Photo — Exposure, plainly]]:
+1/60 from [[Exposure, plainly]]:
 
 - **f/1.8**
 - **1/15s, or slower** — I have had sharp frames at 1/8s braced against a wall
@@ -68,11 +69,11 @@ If AF hunts, it is usually a contrast problem — aim at an edge, not a flat wal
 
 If the subject is not moving, a tripod removes the entire problem: ISO 100,
 f/5.6, whatever shutter you like. That is also the doorway to
-[[Photo — Night sky]].
+[[Night sky]].
 
 **Turn IS off on a tripod.** A stabiliser with nothing to correct can hunt
 against itself and soften the frame.
 
 ---
 
-← Previous: [[Photo — Exposure, plainly]] · → Next: [[Photo — Peak sharpness]] · Series: [[Photography]]
+← Previous: [[Exposure, plainly]] · → Next: [[Peak sharpness]] · Series: [[Photography]]

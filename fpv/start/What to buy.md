@@ -1,9 +1,10 @@
 ---
-title: FPV — What to buy
+title: What to buy
+aliases: [FPV — What to buy]
 tags: [fpv, fpv/gear]
 ---
 
-# FPV — What to buy
+# What to buy
 
 #fpv/gear · Note 4 of 7 · part of [[Drones]]
 
@@ -45,7 +46,7 @@ Buy it **BNF** (bind-and-fly) with a receiver matching your radio's protocol.
 
 ## Stage 4 — a 5"
 
-Either a BNF (iFlight Nazgul, GepRC) or a build — see [[FPV — The first build]].
+Either a BNF (iFlight Nazgul, GepRC) or a build — see [[The first build]].
 
 Buying is not cheating. A BNF gets you flying now, and when you eventually build
 one you will have a known-good machine to compare against.
@@ -59,7 +60,7 @@ These are not optional and they are not in the kit:
 - **A smoke stopper.** A £5 device that has saved every builder I know from
   destroying a stack on the first power-up.
 - **Spare props.** More than you think. Then more again.
-- **A decent soldering iron.** See [[FPV — The first build]].
+- **A decent soldering iron.** See [[The first build]].
 - **Batteries** — 4 to 6 packs, or you fly for six minutes and drive home.
 
 ## When not to buy
@@ -73,4 +74,4 @@ These are not optional and they are not in the kit:
 
 ---
 
-← Previous: [[FPV — CAD and simulation]] · → Next: [[FPV — The first build]] · Series: [[Drones]]
+← Previous: [[CAD and simulation]] · → Next: [[The first build]] · Series: [[Drones]]

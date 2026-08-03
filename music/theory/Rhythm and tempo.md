@@ -1,9 +1,10 @@
 ---
-title: Guitar — Rhythm and tempo
+title: Rhythm and tempo
+aliases: [Guitar — Rhythm and tempo]
 tags: [music, music/rhythm]
 ---
 
-# Guitar — Rhythm and tempo
+# Rhythm and tempo
 
 #music/rhythm · Note 7 of 9 · part of [[Guitar]]
 
@@ -106,4 +107,4 @@ Speed built this way holds up. Speed rushed does not.
 
 ---
 
-← Previous: [[Guitar — The capo]] · → Next: [[Guitar — Reading music]] · Series: [[Guitar]]
+← Previous: [[The capo]] · → Next: [[Reading music]] · Series: [[Guitar]]

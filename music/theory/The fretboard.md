@@ -1,9 +1,10 @@
 ---
-title: Guitar — The fretboard
+title: The fretboard
+aliases: [Guitar — The fretboard]
 tags: [music, music/fretboard]
 ---
 
-# Guitar — The fretboard
+# The fretboard
 
 #music/fretboard · Note 1 of 9 · part of [[Guitar]]
 
@@ -80,8 +81,8 @@ Then two shortcuts:
 
 Set a timer for two minutes. Name a note, find it on all six strings. That
 exercise is worth more than a month of scale patterns, because everything in
-[[Guitar — Sargam and the scale]] and [[Guitar — Chords]] assumes you can.
+[[Sargam and the scale]] and [[Chords]] assumes you can.
 
 ---
 
-→ Next: [[Guitar — Sargam and the scale]] · Series: [[Guitar]]
+→ Next: [[Sargam and the scale]] · Series: [[Guitar]]

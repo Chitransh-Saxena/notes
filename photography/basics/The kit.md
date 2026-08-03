@@ -1,9 +1,10 @@
 ---
-title: Photo — The kit
+title: The kit
+aliases: [Photo — The kit]
 tags: [photo, photo/gear]
 ---
 
-# Photo — The kit
+# The kit
 
 #photo/gear · Note 1 of 7 · part of [[Photography]]
 
@@ -21,7 +22,7 @@ tags: [photo, photo/gear]
 
 - **f/1.8** maximum aperture — this is the *aperture*, not the ISO. Aperture
   controls light and depth of field; ISO is sensor gain. See
-  [[Photo — Exposure, plainly]].
+  [[Exposure, plainly]].
 - A full-frame lens on an APS-C body, so the field of view is
   **35 × 1.6 ≈ 56mm equivalent** — a "normal" lens, close to how the eye frames
   a scene. Not wide. This is worth internalising before blaming the lens for a
@@ -33,7 +34,7 @@ tags: [photo, photo/gear]
 
 ## What this combination is superb at
 
-- Low-light **static** subjects — see [[Photo — Low light]]
+- Low-light **static** subjects — see [[Low light]]
 - Portraits at a natural focal length, with real subject separation at f/1.8
 - Close-up and detail work, thanks to the macro
 - Anything where autofocus needs to just work
@@ -42,7 +43,7 @@ tags: [photo, photo/gear]
 
 - **Wide landscapes.** 56mm equivalent is not a landscape lens. You will be
   stitching panoramas or backing up a long way.
-- **Reach.** No telephoto — see [[Photo — Telephoto]] for what I'd add.
+- **Reach.** No telephoto — see [[Telephoto]] for what I'd add.
 - **Moving subjects in low light.** IS stabilises *the camera*, not the subject.
   A stabilised 1/8s of a walking person is a sharp blur.
 - **Long handheld video.** No IBIS means walking footage needs digital IS, which
@@ -50,4 +51,4 @@ tags: [photo, photo/gear]
 
 ---
 
-→ Next: [[Photo — Exposure, plainly]] · Series: [[Photography]]
+→ Next: [[Exposure, plainly]] · Series: [[Photography]]

@@ -1,9 +1,10 @@
 ---
-title: Guitar — Reading music
+title: Reading music
+aliases: [Guitar — Reading music]
 tags: [music, music/notation]
 ---
 
-# Guitar — Reading music
+# Reading music
 
 #music/notation · Note 8 of 9 · part of [[Guitar]]
 
@@ -66,7 +67,7 @@ top: **F A C E** — which conveniently spells "face".
 
 An accidental lasts to the end of its bar, then expires.
 
-In sargam terms ([[Guitar — Sargam and the scale]]): ♭ makes a swara *komal*,
+In sargam terms ([[Sargam and the scale]]): ♭ makes a swara *komal*,
 ♯ on Ma makes it *tivra*.
 
 ## Key signatures
@@ -126,4 +127,4 @@ compression trick from when paper was expensive, and it survives.
 
 ---
 
-← Previous: [[Guitar — Rhythm and tempo]] · → Next: [[Guitar — A melody, worked through]] · Series: [[Guitar]]
+← Previous: [[Rhythm and tempo]] · → Next: [[A melody, worked through]] · Series: [[Guitar]]

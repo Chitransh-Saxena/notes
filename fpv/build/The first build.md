@@ -1,9 +1,10 @@
 ---
-title: FPV — The first build
+title: The first build
+aliases: [FPV — The first build]
 tags: [fpv, fpv/build]
 ---
 
-# FPV — The first build
+# The first build
 
 #fpv/build · Note 5 of 7 · part of [[Drones]]
 
@@ -19,7 +20,7 @@ are cheap, everything is documented, and it flies well enough to grow into.
 | Motors | 2207, ~1800–2000KV for 6S, ~2400–2550KV for 4S |
 | Camera | Match the video system — analogue or digital |
 | VTX | Analogue: 400–800mW switchable. Digital: comes as a set with the camera |
-| Receiver | ELRS, matching your radio from [[FPV — What to buy]] |
+| Receiver | ELRS, matching your radio from [[What to buy]] |
 | Props | 5×4.3×3 or similar. Buy ten sets |
 | Straps, foam, zip ties | The build is 10% electronics and 90% strain relief |
 
@@ -63,9 +64,9 @@ Order matters here too:
    radio off with props removed.
 4. **Motors tab, props off.** Check direction and order. Fix in software.
 5. **Rates** — start modest, around 600–700°/s, matching your sim
-   ([[FPV — Simulators]]).
+   ([[Simulators]]).
 6. **Do not tune anything.** Stock Betaflight tunes are genuinely good.
-   [[FPV — Tuning and flying]] explains when that stops being true.
+   [[Tuning and flying]] explains when that stops being true.
 
 ## The mistakes everyone makes once
 
@@ -84,4 +85,4 @@ Order matters here too:
 
 ---
 
-← Previous: [[FPV — What to buy]] · → Next: [[FPV — Tuning and flying]] · Series: [[Drones]]
+← Previous: [[What to buy]] · → Next: [[Tuning and flying]] · Series: [[Drones]]

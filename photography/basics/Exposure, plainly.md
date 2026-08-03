@@ -1,9 +1,10 @@
 ---
-title: Photo — Exposure, plainly
+title: Exposure, plainly
+aliases: [Photo — Exposure, plainly]
 tags: [photo, photo/basics]
 ---
 
-# Photo — Exposure, plainly
+# Exposure, plainly
 
 #photo/basics · Note 2 of 7 · part of [[Photography]]
 
@@ -23,7 +24,7 @@ Smaller f-number = wider opening = more light and **less** in focus.
 - **f/1.8** — maximum light, paper-thin focus. At close range on the 35mm, you
   can miss focus between an eye and an eyelash.
 - **f/2.8–f/4** — a usable compromise; the lens is also getting sharper.
-- **f/5.6** — about the sharpest this lens gets. See [[Photo — Peak sharpness]].
+- **f/5.6** — about the sharpest this lens gets. See [[Peak sharpness]].
 - **f/11+** — diffraction starts softening everything. On 24MP APS-C the losses
   are visible past roughly f/8–f/11. Stopping down further does not "add" sharpness.
 
@@ -67,4 +68,4 @@ a dial.
 
 ---
 
-← Previous: [[Photo — The kit]] · → Next: [[Photo — Low light]] · Series: [[Photography]]
+← Previous: [[The kit]] · → Next: [[Low light]] · Series: [[Photography]]

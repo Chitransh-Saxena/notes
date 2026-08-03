@@ -1,9 +1,10 @@
 ---
-title: Photo — Telephoto
+title: Telephoto
+aliases: [Photo — Telephoto]
 tags: [photo, photo/tele]
 ---
 
-# Photo — Telephoto
+# Telephoto
 
 #photo/tele · Note 5 of 7 · part of [[Photography]]
 
@@ -11,7 +12,7 @@ I do not own one yet. This is the note for when I do.
 
 ## What the 35mm cannot reach
 
-At ~56mm equivalent ([[Photo — The kit]]), everything distant stays distant.
+At ~56mm equivalent ([[The kit]]), everything distant stays distant.
 No wildlife, no candid street from across a road, no moon bigger than a dot, no
 compression — that flattened, stacked look that only long lenses give.
 
@@ -60,4 +61,4 @@ it is small but croppable from 24MP.
 
 ---
 
-← Previous: [[Photo — Peak sharpness]] · → Next: [[Photo — Night sky]] · Series: [[Photography]]
+← Previous: [[Peak sharpness]] · → Next: [[Night sky]] · Series: [[Photography]]

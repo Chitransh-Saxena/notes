@@ -1,9 +1,10 @@
 ---
-title: FPV — Where to start
+title: Where to start
+aliases: [FPV — Where to start]
 tags: [fpv, fpv/start]
 ---
 
-# FPV — Where to start
+# Where to start
 
 #fpv/start · Note 1 of 7 · part of [[Drones]]
 
@@ -15,11 +16,11 @@ waiting for a replacement part they don't yet know how to fit.
 
 1. **Buy a radio.** Nothing else. A radio is the one item you keep through every
    other upgrade, and it is the only hardware a simulator needs.
-2. **Fly a simulator for ten to twenty hours.** See [[FPV — Simulators]]. This is
+2. **Fly a simulator for ten to twenty hours.** See [[Simulators]]. This is
    where you learn orientation and throttle discipline, for free, without repairs.
 3. **Fly something tiny indoors.** A whoop. It cannot hurt you or your walls, and
    it teaches the difference between a sim and real air.
-4. **Then a 5".** Bought ready-to-fly or built — see [[FPV — What to buy]].
+4. **Then a 5".** Bought ready-to-fly or built — see [[What to buy]].
 
 Steps 1 and 2 cost roughly the price of one crashed quad, and save several.
 
@@ -34,7 +35,7 @@ you will not be unpleasantly surprised.
 
 Worth saying up front, because it changes what you practise:
 
-- **Soldering.** Every build begins here. See [[FPV — The first build]].
+- **Soldering.** Every build begins here. See [[The first build]].
 - **Line-of-sight orientation.** In goggles you are always looking forward. When
   a video feed drops you are suddenly flying a dot in the sky.
 - **Fear.** A sim reset costs nothing. Your first real dive over concrete does
@@ -50,4 +51,4 @@ Worth saying up front, because it changes what you practise:
 
 ---
 
-→ Next: [[FPV — Simulators]] · Series: [[Drones]]
+→ Next: [[Simulators]] · Series: [[Drones]]

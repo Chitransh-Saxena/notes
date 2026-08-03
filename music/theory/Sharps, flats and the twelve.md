@@ -1,9 +1,10 @@
 ---
-title: Guitar — Sharps, flats and the twelve
+title: Sharps, flats and the twelve
+aliases: [Guitar — Sharps, flats and the twelve]
 tags: [music, music/accidentals]
 ---
 
-# Guitar — Sharps, flats and the twelve
+# Sharps, flats and the twelve
 
 #music/accidentals · Note 3 of 9 · part of [[Guitar]]
 
@@ -69,7 +70,7 @@ Which name to use is decided by the key, not by preference:
 
 ## In sargam, the same twelve
 
-From [[Guitar — Sargam and the scale]]:
+From [[Sargam and the scale]]:
 
 | Semitones | Sargam | Western (Sa = C) |
 | --- | --- | --- |
@@ -118,8 +119,8 @@ fret 1 is F and C. The gaps again.
 
 Sharps always appear in the order **F C G D A E B**; flats in exactly the
 reverse, **B E A D G C F**. One key signature per position on the circle of
-fifths — see [[Guitar — Reading music]].
+fifths — see [[Reading music]].
 
 ---
 
-← Previous: [[Guitar — Sargam and the scale]] · → Next: [[Guitar — Chords]] · Series: [[Guitar]]
+← Previous: [[Sargam and the scale]] · → Next: [[Chords]] · Series: [[Guitar]]

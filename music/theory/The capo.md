@@ -1,9 +1,10 @@
 ---
-title: Guitar — The capo
+title: The capo
+aliases: [Guitar — The capo]
 tags: [music, music/capo]
 ---
 
-# Guitar — The capo
+# The capo
 
 #music/capo · Note 6 of 9 · part of [[Guitar]]
 
@@ -100,7 +101,7 @@ semitones. Nothing else to remember.
 
 ## In sargam: Sa moves, and nothing else does
 
-[[Guitar — Sargam and the scale]] makes the point that Sa is not a pitch, it is
+[[Sargam and the scale]] makes the point that Sa is not a pitch, it is
 *home* — and that every fret pattern is a set of offsets from wherever you put
 it. A capo is that idea made physical.
 
@@ -166,4 +167,4 @@ producing an open tuning without retuning anything. A different note.
 
 ---
 
-← Previous: [[Guitar — Beyond the triad]] · → Next: [[Guitar — Rhythm and tempo]] · Series: [[Guitar]]
+← Previous: [[Beyond the triad]] · → Next: [[Rhythm and tempo]] · Series: [[Guitar]]

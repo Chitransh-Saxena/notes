@@ -1,9 +1,10 @@
 ---
-title: Guitar — Sargam and the scale
+title: Sargam and the scale
+aliases: [Guitar — Sargam and the scale]
 tags: [music, music/sargam]
 ---
 
-# Guitar — Sargam and the scale
+# Sargam and the scale
 
 #music/sargam · Note 2 of 9 · part of [[Guitar]]
 
@@ -68,7 +69,7 @@ alternative:
 
 *Komal* = flattened. *Tivra* = sharpened, and only Ma gets it. Four komal swaras
 plus one tivra plus the seven shuddha gives the twelve semitones of the octave —
-the same twelve frets from [[Guitar — The fretboard]].
+the same twelve frets from [[The fretboard]].
 
 ## On one string
 
@@ -109,7 +110,7 @@ it is D major. The shape never changes — which is exactly the point.
 
 > [!warning] The 2nd string breaks the shape
 > Any pattern crossing to the B string needs **one extra fret**, because G→B is
-> a major third rather than a fourth ([[Guitar — The fretboard]]). Everyone
+> a major third rather than a fourth ([[The fretboard]]). Everyone
 > forgets this. Everyone plays a wrong note the first few times.
 
 ## Aroha and avaroha
@@ -123,4 +124,4 @@ seven notes produce hundreds of distinct moods.
 
 ---
 
-← Previous: [[Guitar — The fretboard]] · → Next: [[Guitar — Sharps, flats and the twelve]] · Series: [[Guitar]]
+← Previous: [[The fretboard]] · → Next: [[Sharps, flats and the twelve]] · Series: [[Guitar]]

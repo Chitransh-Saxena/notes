@@ -1,16 +1,17 @@
 ---
-title: FPV — CAD and simulation
+title: CAD and simulation
+aliases: [FPV — CAD and simulation]
 tags: [fpv, fpv/cad, cad]
 ---
 
-# FPV — CAD and simulation
+# CAD and simulation
 
 #fpv/cad · Note 3 of 7 · part of [[Drones]]
 
 Two different things get called "simulation" in this hobby and it is worth
 separating them before choosing a tool:
 
-- **Flight simulation** — learning to fly. That is [[FPV — Simulators]], and the
+- **Flight simulation** — learning to fly. That is [[Simulators]], and the
   answer is a game, not a CAD package.
 - **Design simulation** — will this part survive a crash. That is CAD and FEA,
   and it is what this note is about.
@@ -73,9 +74,9 @@ hobby build. Skip it.
 4. Change the variable, print again.
 
 Keeping the model parametric is the whole benefit — see
-[[FPV — Claude Code in the loop]] for keeping the dimensions and the build log in
+[[Claude Code in the loop]] for keeping the dimensions and the build log in
 one place.
 
 ---
 
-← Previous: [[FPV — Simulators]] · → Next: [[FPV — What to buy]] · Series: [[Drones]]
+← Previous: [[Simulators]] · → Next: [[What to buy]] · Series: [[Drones]]

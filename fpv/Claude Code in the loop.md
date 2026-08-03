@@ -1,9 +1,10 @@
 ---
-title: FPV — Claude Code in the loop
+title: Claude Code in the loop
+aliases: [FPV — Claude Code in the loop]
 tags: [fpv, fpv/tools, claude-code]
 ---
 
-# FPV — Claude Code in the loop
+# Claude Code in the loop
 
 #fpv/tools · Note 7 of 7 · part of [[Drones]]
 
@@ -14,14 +15,14 @@ Where an agent actually earns its keep in this hobby, and where it does not.
 **Blackbox analysis.** Export a log to CSV and have it plot gyro spectra, compare
 two flights before and after a filter change, and tell you which axis is noisy.
 This is exactly the sort of tedious numeric work that is quick to describe and
-slow to do. Pairs with [[FPV — Tuning and flying]].
+slow to do. Pairs with [[Tuning and flying]].
 
 **Betaflight CLI diffs, versioned.** `diff all` after every change, saved into
 this vault as a dated file. Then ask for the diff *between* two of them. Six
 months later, "what did I change when it started oscillating" becomes answerable
 instead of a memory test.
 
-**Bills of materials.** Give it the parts list from [[FPV — The first build]] and
+**Bills of materials.** Give it the parts list from [[The first build]] and
 have it produce a table with weights and prices, total AUW, and a hover-thrust
 sanity check. Then keep that table in the vault and embed it into every build note
 that uses the same parts — write once, reuse.
@@ -33,7 +34,7 @@ the arithmetic done properly rather than in your head at 1am.
 tracked over time. It will tell you a pack is dying before it dumps you out of
 the sky.
 
-**Parametric CAD dimensions.** Keep the numbers from [[FPV — CAD and simulation]]
+**Parametric CAD dimensions.** Keep the numbers from [[CAD and simulation]]
 in a note rather than only inside the model, so the mount and the notes cannot
 disagree.
 
@@ -66,4 +67,4 @@ still there in five years.
 
 ---
 
-← Previous: [[FPV — Tuning and flying]] · Series: [[Drones]] · Board: [[FPV build map]]
+← Previous: [[Tuning and flying]] · Series: [[Drones]] · Board: [[FPV build map]]

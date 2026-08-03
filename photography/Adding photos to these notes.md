@@ -1,9 +1,10 @@
 ---
-title: Photo — Adding photos to these notes
+title: Adding photos to these notes
+aliases: [Photo — Adding photos to these notes]
 tags: [photo, photo/workflow, obsidiary]
 ---
 
-# Photo — Adding photos to these notes
+# Adding photos to these notes
 
 #photo/workflow · Note 7 of 7 · part of [[Photography]]
 
@@ -88,4 +89,4 @@ photograph.
 
 ---
 
-← Previous: [[Photo — Night sky]] · Series: [[Photography]]
+← Previous: [[Night sky]] · Series: [[Photography]]

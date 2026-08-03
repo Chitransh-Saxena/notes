@@ -1,9 +1,10 @@
 ---
-title: Photo — Peak sharpness
+title: Peak sharpness
+aliases: [Photo — Peak sharpness]
 tags: [photo, photo/quality]
 ---
 
-# Photo — Peak sharpness
+# Peak sharpness
 
 #photo/quality · Note 4 of 7 · part of [[Photography]]
 
@@ -13,7 +14,7 @@ each one matters.
 ## 1. Shutter speed — the biggest cause of "soft" photos
 
 Most images blamed on a lens are camera shake. The floor from
-[[Photo — Exposure, plainly]] is 1/60 for this combination without IS. If a shot
+[[Exposure, plainly]] is 1/60 for this combination without IS. If a shot
 matters, double it. Sharpness you gave away to motion cannot be sharpened back.
 
 ## 2. Nail the focus, not the focus *mode*
@@ -71,4 +72,4 @@ out-resolves 24MP comfortably; it is very unlikely to be the limiting factor.
 
 ---
 
-← Previous: [[Photo — Low light]] · → Next: [[Photo — Telephoto]] · Series: [[Photography]]
+← Previous: [[Low light]] · → Next: [[Telephoto]] · Series: [[Photography]]

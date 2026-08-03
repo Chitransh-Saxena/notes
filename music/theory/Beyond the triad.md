@@ -1,13 +1,14 @@
 ---
-title: Guitar — Beyond the triad
+title: Beyond the triad
+aliases: [Guitar — Beyond the triad]
 tags: [music, music/voicings]
 ---
 
-# Guitar — Beyond the triad
+# Beyond the triad
 
 #music/voicings · Note 5 of 9 · part of [[Guitar]]
 
-A triad is three notes ([[Guitar — Chords]]). Everything here is what happens
+A triad is three notes ([[Chords]]). Everything here is what happens
 when you take one away, or add one on top. Two different operations, and the
 names tell you which — once you know the rule.
 
@@ -18,7 +19,7 @@ names tell you which — once you know the rule.
 
 ## Suspended chords — the third removed
 
-The third is the note that decides major or minor ([[Guitar — Chords]]). Take it
+The third is the note that decides major or minor ([[Chords]]). Take it
 out and the chord becomes neither. That ambiguity is the entire point.
 
 | Chord | Notes | Sargam | In D |
@@ -142,4 +143,4 @@ really a statement about what you did to it.
 
 ---
 
-← Previous: [[Guitar — Chords]] · → Next: [[Guitar — The capo]] · Series: [[Guitar]]
+← Previous: [[Chords]] · → Next: [[The capo]] · Series: [[Guitar]]

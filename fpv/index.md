@@ -14,13 +14,13 @@ with a link to the next, and the whole thing is also drawn as a board:
 
 ## The series
 
-1. [[FPV — Where to start]] — #fpv/start
-2. [[FPV — Simulators]] — #fpv/sim
-3. [[FPV — CAD and simulation]] — #fpv/cad
-4. [[FPV — What to buy]] — #fpv/gear
-5. [[FPV — The first build]] — #fpv/build
-6. [[FPV — Tuning and flying]] — #fpv/tune
-7. [[FPV — Claude Code in the loop]] — #fpv/tools
+1. [[Where to start]] — #fpv/start
+2. [[Simulators]] — #fpv/sim
+3. [[CAD and simulation]] — #fpv/cad
+4. [[What to buy]] — #fpv/gear
+5. [[The first build]] — #fpv/build
+6. [[Tuning and flying]] — #fpv/tune
+7. [[Claude Code in the loop]] — #fpv/tools
 
 ## The one-paragraph version
 

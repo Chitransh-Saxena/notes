@@ -1,15 +1,16 @@
 ---
-title: Guitar — Chords
+title: Chords
+aliases: [Guitar — Chords]
 tags: [music, music/chords]
 ---
 
-# Guitar — Chords
+# Chords
 
 #music/chords · Note 4 of 9 · part of [[Guitar]]
 
 ## A chord is three notes
 
-Take the scale from [[Guitar — Sargam and the scale]] and stack every other
+Take the scale from [[Sargam and the scale]] and stack every other
 note: the **1st, 3rd and 5th**. That is a triad, and it is the whole idea.
 
 In sargam: **Sa · Ga · Pa**. In C: **C · E · G**. That is a C major chord.
@@ -80,7 +81,7 @@ C  = x 3 5 5 5 3
 D  = x 5 7 7 7 5
 ```
 
-Find the root note on the 6th or 5th string ([[Guitar — The fretboard]]) and put
+Find the root note on the 6th or 5th string ([[The fretboard]]) and put
 the shape there. Two shapes, and every major chord is available.
 
 Minor versions drop the third by a fret: E-shape minor is `1 3 3 1 1 1`.
@@ -107,11 +108,11 @@ enormous number of songs, in every key, forever.
 ## The practice that matters
 
 Not chord shapes. **Changes.** Set a metronome at 60 BPM
-([[Guitar — Rhythm and tempo]]) and change between two chords on every fourth
+([[Rhythm and tempo]]) and change between two chords on every fourth
 beat. When that is clean, every second beat.
 
 A clean change at 60 beats far more chords played badly.
 
 ---
 
-← Previous: [[Guitar — Sharps, flats and the twelve]] · → Next: [[Guitar — Beyond the triad]] · Series: [[Guitar]]
+← Previous: [[Sharps, flats and the twelve]] · → Next: [[Beyond the triad]] · Series: [[Guitar]]

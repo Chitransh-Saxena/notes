@@ -1,9 +1,10 @@
 ---
-title: FPV — Simulators
+title: Simulators
+aliases: [FPV — Simulators]
 tags: [fpv, fpv/sim]
 ---
 
-# FPV — Simulators
+# Simulators
 
 #fpv/sim · Note 2 of 7 · part of [[Drones]]
 
@@ -36,7 +37,7 @@ Start with a free one to confirm your radio works and you enjoy it, then buy
 > [!tip] Set rates to match your future quad
 > Do not fly the sim's default rates for a year and then discover your real quad
 > feels alien. Pick something modest — around 600–700°/s max rate — and keep the
-> sim and the real machine in agreement. More in [[FPV — Tuning and flying]].
+> sim and the real machine in agreement. More in [[Tuning and flying]].
 
 ## What to actually practise
 
@@ -60,4 +61,4 @@ Expect the first real flights to feel heavier and more urgent than the sim.
 
 ---
 
-← Previous: [[FPV — Where to start]] · → Next: [[FPV — CAD and simulation]] · Series: [[Drones]]
+← Previous: [[Where to start]] · → Next: [[CAD and simulation]] · Series: [[Drones]]

@@ -1,9 +1,10 @@
 ---
-title: Photo — Night sky
+title: Night sky
+aliases: [Photo — Night sky]
 tags: [photo, photo/nightsky]
 ---
 
-# Photo — Night sky
+# Night sky
 
 #photo/nightsky · Note 6 of 7 · part of [[Photography]]
 
@@ -32,7 +33,7 @@ small or your standards are kind.
 - **ISO 3200** to start; 6400 if the sky is genuinely dark
 - **White balance ~3900K**, not auto — auto will chase the light pollution
 - **RAW**, always
-- **IS OFF.** It is on a tripod. See [[Photo — Low light]].
+- **IS OFF.** It is on a tripod. See [[Low light]].
 
 ## Focusing on stars
 
@@ -72,4 +73,4 @@ frame for the foreground and blend the two.
 
 ---
 
-← Previous: [[Photo — Telephoto]] · → Next: [[Photo — Adding photos to these notes]] · Series: [[Photography]]
+← Previous: [[Telephoto]] · → Next: [[Adding photos to these notes]] · Series: [[Photography]]
