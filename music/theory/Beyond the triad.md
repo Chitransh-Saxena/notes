@@ -46,11 +46,11 @@ where one finger controls it:
 ```
         6 5 4 3 2 1
 D       x x 0 2 3 2      D  A  D  F♯
-        ← the F♯ is the third
+  ← the F♯ is the third
 Dsus2   x x 0 2 3 0      D  A  D  E
-        ← lift the middle finger
+  ← lift the middle finger
 Dsus4   x x 0 2 3 3      D  A  D  G
-        ← add the little finger
+  ← add the little finger
 ```
 
 One finger, three chords. Play **D → Dsus4 → D → Dsus2 → D** slowly and you can
@@ -96,7 +96,7 @@ past an octave*:
 
 ```
 1  2  3  4  5  6  7  8  9  10  11  12  13
-Sa Re Ga Ma Pa Dha Ni Sa′ Re′ Ga′ Ma′ Pa′ Dha′
+Sa Re Ga Ma Pa Dha Ni Sa′ Re′ Ga′ Ma′ Pa′
 ```
 
 - **sus2** uses "2" because the note sits *inside* the triad, standing in for the
@@ -113,7 +113,7 @@ precisely to say *"the ninth, and no seventh"*.
         6 5 4 3 2 1
 C       x 3 2 0 1 0
 Cadd9   x 3 2 0 3 0
-        ← 2nd string moves from fret 1 to fret 3
+  ← 2nd string moves from fret 1 to fret 3
 ```
 
 Guitarists use it constantly, and for a physical reason rather than a musical

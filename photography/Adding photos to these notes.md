@@ -22,9 +22,9 @@ Then the ordinary Obsidian syntax works:
 ```markdown
 ![[bangalore-rooftop.jpg]]
 ![[bangalore-rooftop.jpg|600]]
-        ← 600px wide
+  ← 600px wide
 ![[bangalore-rooftop.jpg|600x400]]
-        ← both dimensions
+  ← both dimensions
 ```
 
 Here is one, proving the whole path end to end:

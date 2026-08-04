@@ -96,7 +96,7 @@ otherwise.
 
 ```
 E♭m     x 6 8 8 7 6      E♭ B♭ E♭ G♭ B♭
-        ← third flattened one fret
+  ← third flattened one fret
 E♭maj7  x 6 8 7 8 6
 E♭7     x 6 8 6 8 6
 ```
