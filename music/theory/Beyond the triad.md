@@ -60,7 +60,9 @@ available on the instrument.
 The same works on A:
 
 ```
-A       x 0 2 2 2 0      Asus2   x 0 2 2 0 0      Asus4   x 0 2 2 3 0
+A       x 0 2 2 2 0
+Asus2   x 0 2 2 0 0
+Asus4   x 0 2 2 3 0
 ```
 
 And on E, where only sus4 is comfortable: **Esus4** `0 2 2 2 0 0`.

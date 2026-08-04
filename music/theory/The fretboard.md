@@ -38,7 +38,8 @@ fretboard then repeats: fret 13 is the same as fret 1, an octave higher.
 The twelve notes, ascending:
 
 ```
-C  C♯/D♭  D  D♯/E♭  E  F  F♯/G♭  G  G♯/A♭  A  A♯/B♭  B  → C
+C  C♯/D♭  D  D♯/E♭  E  F
+F♯/G♭  G  G♯/A♭  A  A♯/B♭  B  → C
 ```
 
 **There is no black key between E–F and B–C.** They are a semitone apart

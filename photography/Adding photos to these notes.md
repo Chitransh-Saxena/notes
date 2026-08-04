@@ -80,7 +80,7 @@ becomes unpleasant to clone within a year.
 decoration, use the markdown form instead:
 
 ```markdown
-![Milky Way over a ridge](attachments/milky-way.jpg)
+![Milky Way](attachments/milky-way.jpg)
 ```
 
 ## What renders
