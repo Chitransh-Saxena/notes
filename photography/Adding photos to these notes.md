@@ -71,7 +71,7 @@ becomes unpleasant to clone within a year.
 > GPS → *Remove Location Info*. Or in bulk:
 > ```bash
 > exiftool -gps:all= -xmp:geotag= \
-  attachments/*.jpg
+>   attachments/*.jpg
 > ```
 > Camera model and settings are harmless and worth keeping. Location is not.
 
