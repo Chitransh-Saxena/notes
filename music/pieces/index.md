@@ -1,6 +1,6 @@
 ---
 title: Pieces and problems
-aliases: [Pieces, Guitar pieces]
+aliases: [Pieces and problems, Pieces, Guitar pieces]
 tags: [area, music, music/pieces]
 ---
 
