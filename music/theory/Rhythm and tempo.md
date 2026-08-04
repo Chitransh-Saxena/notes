@@ -87,9 +87,11 @@ ups on the "and".
 
 ```
 1  &  2  &  3  &  4  &
-D     D  U     U  D  U        ← the one that fits most songs
+D     D  U     U  D  U
+        ← the one that fits most songs
 D  U  D  U  D  U  D  U        ← constant eighths
-D     D     D     D           ← quarters, for learning changes
+D     D     D     D
+        ← quarters, for learning changes
 ```
 
 Keep the hand moving continuously even when not striking. The pattern comes from

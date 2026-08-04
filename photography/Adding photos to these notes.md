@@ -21,8 +21,10 @@ Then the ordinary Obsidian syntax works:
 
 ```markdown
 ![[bangalore-rooftop.jpg]]
-![[bangalore-rooftop.jpg|600]]        ← 600px wide
-![[bangalore-rooftop.jpg|600x400]]    ← both dimensions
+![[bangalore-rooftop.jpg|600]]
+        ← 600px wide
+![[bangalore-rooftop.jpg|600x400]]
+        ← both dimensions
 ```
 
 Here is one, proving the whole path end to end:
@@ -78,7 +80,7 @@ becomes unpleasant to clone within a year.
 decoration, use the markdown form instead:
 
 ```markdown
-![The Milky Way core over a ridge line](attachments/milky-way.jpg)
+![Milky Way over a ridge](attachments/milky-way.jpg)
 ```
 
 ## What renders

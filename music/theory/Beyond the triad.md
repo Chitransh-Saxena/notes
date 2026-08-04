@@ -45,9 +45,12 @@ where one finger controls it:
 
 ```
         6 5 4 3 2 1
-D       x x 0 2 3 2      D  A  D  F♯     ← the F♯ is the third
-Dsus2   x x 0 2 3 0      D  A  D  E      ← lift the middle finger
-Dsus4   x x 0 2 3 3      D  A  D  G      ← add the little finger
+D       x x 0 2 3 2      D  A  D  F♯
+        ← the F♯ is the third
+Dsus2   x x 0 2 3 0      D  A  D  E
+        ← lift the middle finger
+Dsus4   x x 0 2 3 3      D  A  D  G
+        ← add the little finger
 ```
 
 One finger, three chords. Play **D → Dsus4 → D → Dsus2 → D** slowly and you can
@@ -107,7 +110,8 @@ precisely to say *"the ninth, and no seventh"*.
 ```
         6 5 4 3 2 1
 C       x 3 2 0 1 0
-Cadd9   x 3 2 0 3 0      ← 2nd string moves from fret 1 to fret 3
+Cadd9   x 3 2 0 3 0
+        ← 2nd string moves from fret 1 to fret 3
 ```
 
 Guitarists use it constantly, and for a physical reason rather than a musical
