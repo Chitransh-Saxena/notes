@@ -70,7 +70,8 @@ becomes unpleasant to clone within a year.
 > Strip location before committing. On macOS, Preview → Tools → Show Inspector →
 > GPS → *Remove Location Info*. Or in bulk:
 > ```bash
-> exiftool -gps:all= -xmp:geotag= attachments/*.jpg
+> exiftool -gps:all= -xmp:geotag= \
+  attachments/*.jpg
 > ```
 > Camera model and settings are harmless and worth keeping. Location is not.
 
